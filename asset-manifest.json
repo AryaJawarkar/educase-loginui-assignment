@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/educase-loginui-assignment/static/css/main.55ee25b0.css",
+    "main.js": "/educase-loginui-assignment/static/js/main.3ba8b17c.js",
+    "static/media/google.svg": "/educase-loginui-assignment/static/media/google.20efb4107872bad8f5147c2e1e9ebfa0.svg",
+    "index.html": "/educase-loginui-assignment/index.html",
+    "static/media/twitter.svg": "/educase-loginui-assignment/static/media/twitter.28a25f738ade33b135e30396d12cbb69.svg",
+    "static/media/facebook.svg": "/educase-loginui-assignment/static/media/facebook.14db6f42e6e1f5142522f7fc5e1a2917.svg",
+    "main.55ee25b0.css.map": "/educase-loginui-assignment/static/css/main.55ee25b0.css.map",
+    "main.3ba8b17c.js.map": "/educase-loginui-assignment/static/js/main.3ba8b17c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55ee25b0.css",
+    "static/js/main.3ba8b17c.js"
+  ]
+}
